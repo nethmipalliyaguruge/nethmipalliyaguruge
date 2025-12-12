@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE5IyTBQeVwaA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1719753383117?e=1767225600&v=beta&t=O0JhpR5GvjetlINLAA62yA6n3b4cIv4iKb16a2_9QEM" width="150" style="border-radius: 50%">
-</p>
-
 <h2 align="center">👋 Hi, I'm Nethmi Palliyaguruge</h2>
 <p align="center">Software Engineering Undergraduate | Staffordshire University (APIIT Sri Lanka)</p>
 
