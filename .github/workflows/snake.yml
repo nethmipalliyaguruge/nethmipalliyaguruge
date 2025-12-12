@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation (snk)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nethmipalliyaguruge
+          outputs: dist/snake.svg
+
+      - name: Create output branch and commit artifact
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake svg"
+          file_pattern: "dist/**"
+          branch: output
