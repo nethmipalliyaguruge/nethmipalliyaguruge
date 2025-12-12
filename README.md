@@ -1,3 +1,11 @@
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center">👋 Hi, I'm Nethmi Palliyaguruge</h2>
 <p align="center">Software Engineering Undergraduate | Staffordshire University (APIIT Sri Lanka)</p>
 
