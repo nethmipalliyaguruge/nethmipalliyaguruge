@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nethmipalliyaguruge/nethmipalliyaguruge/output/snake.svg" alt="Snake animation"/>
+<img src="https://nethmipalliyaguruge.github.io/nethmipalliyaguruge/snake.svg" alt="Snake animation"/>
 
 ###
 
